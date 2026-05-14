@@ -1,4 +1,4 @@
-# Contributing to spectral-bridge
+# Contributing to spectral-examples
 
 Thanks for your interest in contributing. This project is built on an open protocol, and contributions from the community — bug reports, fixes, new adapters, documentation improvements, protocol feedback — are genuinely welcome.
 
@@ -27,13 +27,10 @@ If you're contributing on behalf of your employer, you may need a Corporate CLA 
 
 ## Reporting bugs and security issues
 
-For regular bugs, please [open an issue](https://github.com/Principled-Intelligence/spectral-bridge/issues) with a clear description, steps to reproduce, and your environment details (Python version, OS, `spectral-bridge` version).
+For regular bugs, please [open an issue](https://github.com/Principled-Intelligence/spectral-examples/issues) with a clear description, steps to reproduce, and your environment details (Python version, OS, `spectral-bridge` version).
 
 **Security vulnerabilities should not be reported as public issues.** Please email hello@principledintelligence.com instead, and we'll respond within a reasonable timeframe.
 
-## Building adapters
-
-If you've built an adapter for a specific AI system and want it included in the project, that's great — open a PR adding it under `adapters/<your-adapter-name>/`. See the existing [`pass-through`](https://github.com/Principled-Intelligence/spectral-bridge/blob/main/adapters/pass-through/) adapter for the expected structure. Adapters live in this repo to make discovery easy and to ensure they stay compatible with the client as the protocol evolves.
 
 ## Code of conduct
 
@@ -41,4 +38,4 @@ We expect everyone interacting with this project — in issues, pull requests, d
 
 ## Questions
 
-If you're not sure where to start, or you have a question that doesn't fit the formats above, [open a discussion](https://github.com/Principled-Intelligence/spectral-bridge/discussions) and we'll help you find the right place.
+If you're not sure where to start, or you have a question that doesn't fit the formats above, [open a discussion](https://github.com/Principled-Intelligence/spectral-examples/discussions) and we'll help you find the right place.
